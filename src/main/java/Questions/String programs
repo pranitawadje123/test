@@ -1,0 +1,87 @@
+1. Reverse a String
+
+Input:
+hello
+Output:
+olleh
+
+2. Check if a String is a Palindrome
+
+Input:
+madam
+Output:
+The string is a palindrome.
+
+3. Count Vowels and Consonants in a String
+
+Input:
+Java Programming
+Output:
+Vowels: 5
+Consonants: 9
+
+4. Remove Duplicate Characters from a String
+
+Input:
+programming
+Output:
+progamin
+
+5. Count Occurrences of a Character in a String
+
+Input:
+String: banana, Character: a
+Output:
+Character 'a' occurs 3 times.
+
+6. Convert String to Integer
+
+Input:
+"1234"
+Output:
+Integer value is: 1234
+
+(If input is invalid like "12a4", then output should show an error/exception)
+
+7. Remove Whitespace from a String
+
+Input:
+Hello World
+Output:
+HelloWorld
+
+8. Find the Length of a String Without Using length() Method
+
+Input:
+OpenAI
+Output:
+Length of string is: 6
+
+9. Swap Two Strings Without Using a Third Variable
+
+Input:
+a = "foo", b = "bar"
+Output:
+a = "bar", b = "foo"
+
+10. Check if Two Strings are Anagrams
+
+Input:
+listen, silent
+Output:
+The strings are anagrams.
+
+Input:
+hello, world
+Output:
+The strings are not anagrams.
+
+11. Find First Non-Repeated Character in a String
+
+Input:
+swiss
+Output:
+First non-repeated character: w
+
+
+

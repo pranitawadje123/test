@@ -1,0 +1,22 @@
+1. You are given a list of integers. Use Stream API to remove duplicate values from the list.
+
+2. Given a list of integers, use the Stream API to find the maximum number in the list.
+
+3. You are given a list of strings. Use Stream API to convert all strings to uppercase.
+
+4. You are given a list of strings. Use Stream API to count the occurrence of each word in the list.
+
+5. You are given a list of integers. Use Stream API to filter out only the even numbers from the list.
+
+6. You are given a list of integers. Use Stream API to check if all numbers are positive.
+
+7. Given a list of integers, use Stream API to find the sum of all numbers.
+
+8. You are given a list of integers. Use Stream API to find the first even number in the list.
+
+9. Given a list of strings, use Stream API to join them into a single string with a space separator.
+
+10. Given a list of integers, use Stream API to find the square of all even numbers.
+
+
+
